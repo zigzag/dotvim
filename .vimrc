@@ -32,8 +32,8 @@ set hlsearch
 :set fileencodings=ucs-bom,utf-8,gb2312,cp936
 "
 "" set tabstop value and shift width 
-:set ts=4
-:set sw=4
+:set ts=2
+:set sw=2
 :set expandtab
 "
 ""setting about indent
