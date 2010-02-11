@@ -18,6 +18,8 @@ set incsearch		" do incremental searching
 syntax on 
 "set hlsearch
 "
+"" enable spell check
+:set spell
 "" enable mouse
 :set mouse=a
 "
