@@ -16,7 +16,7 @@ set incsearch		" do incremental searching
 "" set filetype check on
 :filetype plugin indent on
 syntax on 
-set hlsearch
+"set hlsearch
 "
 "" enable mouse
 :set mouse=a
