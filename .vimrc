@@ -21,6 +21,7 @@ syntax on
 set t_Co=256 " 256 colors
 set background=dark 
 colorscheme ir_black
+"colorscheme herald 
 
 "set hlsearch
 "
@@ -53,3 +54,4 @@ colorscheme ir_black
 "" not let all windows keep the same height/width
 :set noequalalways
 
+:nmap <c-o> o<Esc>
