@@ -26,7 +26,7 @@ colorscheme ir_black
 "set hlsearch
 "
 "" enable spell check
-:set spell
+" :set spell
 "" enable mouse
 ":set mouse=a
 "
@@ -54,4 +54,4 @@ colorscheme ir_black
 "" not let all windows keep the same height/width
 :set noequalalways
 
-:nmap <c-o> o<Esc>
+:nmap ,o o<Esc>
